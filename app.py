@@ -48,7 +48,7 @@ logger = logging.getLogger(__name__)
 
 BOT_TOKEN = "8733601093:AAEJL3vQEo0VaXV_VySsRMLpn2y3T8OVg2w"
 ADMIN_IDS = [
-    7531008571
+    7531008571,  # أضفنا فاصلة هنا
     8733601093
 ]
 MASTER_ADMIN_ID = 7531008571
